@@ -5,8 +5,9 @@
 🌱 Currently learning: JavaScript 
 
 ✨ Currently working on:
-- [The ___Practicum by Yandex___ International Code Jam, October 2021](https://github.com/tatianakomar/travelable)
-- My 4th project in the ___Practicum by Yandex___ Web Development course
+- My 4th project in the [___Practicum by Yandex___](https://practicum.yandex.com/) Web Development course
+- The ___Practicum by Yandex___ [International Code Jam](https://github.com/tatianakomar/travelable) October 2021
+
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
