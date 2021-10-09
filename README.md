@@ -1,4 +1,4 @@
-👋 Hey, I’m Sara Ward
+👋 Hey, I’m [Sara Ward](https://www.linkedin.com/in/sara-ward47/)
 
 👀 On my way to becoming a full stack developer
 
