@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @warsdd
+👋 Hey, I’m Sara Ward
 
-- 🌱 I’m currently learning: HTML, CSS, JavaScript with the _Practicum by Yandex_ bootcamp
-- 👀 Next up, I will be learning: OOP, React, Webpack, Node.js, Express.js, REST API, and more
+👀 On my way to becoming a full stack developer
+
+🌱 I’m currently learning: JavaScript 
+
+✨ Currently working on:
+- [The ___Practicum by Yandex___ International Code Jam, October 2021](https://github.com/tatianakomar/travelable)
+- My 4th project in the ___Practicum by Yandex___ Web Development course
+
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
