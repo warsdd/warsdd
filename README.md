@@ -2,7 +2,7 @@
 
 👀 On my way to becoming a full stack developer
 
-🌱 I’m currently learning: JavaScript 
+🌱 Currently learning: JavaScript 
 
 ✨ Currently working on:
 - [The ___Practicum by Yandex___ International Code Jam, October 2021](https://github.com/tatianakomar/travelable)
