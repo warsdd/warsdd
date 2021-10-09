@@ -2,7 +2,8 @@
 
 👀 On my way to becoming a full stack developer
 
-🌱 Currently learning: JavaScript 
+🌱 Currently learning: 
+- JavaScript 
 
 ✨ Currently working on:
 - My 4th project in the [___Practicum by Yandex___](https://practicum.yandex.com/) Web Development course
