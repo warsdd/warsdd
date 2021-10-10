@@ -7,7 +7,8 @@
 
 ✨ Currently working on:
 - My 4th project in the [___Practicum by Yandex___](https://practicum.yandex.com/) Web Development course
-- The ___Practicum by Yandex___ [International Code Jam](https://github.com/tatianakomar/travelable) October 2021
+- The ___Practicum by Yandex___ [International Code Jam](https://github.com/tatianakomar/travelable) October 2021 
+[(Youtube Presentation Stream here)](https://www.youtube.com/watch?v=tlbog5L6ONY)
 
 
 <!--- 💞️ I’m looking to collaborate on ...
