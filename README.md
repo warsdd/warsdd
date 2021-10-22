@@ -6,7 +6,7 @@
 - JavaScript 
 
 ✨ Currently working on:
-- My 4th and 5th projects in the [__Practicum by Yandex__](https://practicum.yandex.com/) Web Development course
+- My 5th project in the [__Practicum by Yandex__](https://practicum.yandex.com/) Web Development course
 - The __Practicum by Yandex__ [International Code Jam](https://github.com/tatianakomar/travelable) October 2021 
 [(Youtube Presentation Stream here)](https://www.youtube.com/watch?v=tlbog5L6ONY)
 
