@@ -1,6 +1,6 @@
 👋 Hey, I’m [Sara Ward](https://www.linkedin.com/in/sara-ward47/)
 
-👀 On my way to becoming a full stack developer
+👀 Training in full stack development
 
 🌱 Currently learning: 
 - JavaScript 
