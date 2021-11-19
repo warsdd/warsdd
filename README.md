@@ -1,6 +1,6 @@
 👋 Hey, I’m [Sara Ward](https://www.linkedin.com/in/sara-ward47/)
 
-👀 Training in full stack development
+👀 Training in full-stack (MERN) / front-end development
 
 🌱 Currently learning: 
 - JavaScript 
